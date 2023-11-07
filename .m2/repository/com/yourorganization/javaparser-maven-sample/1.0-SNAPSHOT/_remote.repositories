@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 17 04:27:45 UTC 2023
+javaparser-maven-sample-1.0-SNAPSHOT-shaded.jar>=
+javaparser-maven-sample-1.0-SNAPSHOT.jar>=
+javaparser-maven-sample-1.0-SNAPSHOT.pom>=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.yourorganization</groupId>
+  <artifactId>javaparser-maven-sample</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231017042745</lastUpdated>
+  </versioning>
+</metadata>
